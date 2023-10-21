@@ -1,0 +1,18 @@
+.App {
+    width: 40vw;
+    margin: 70px auto;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .App textarea{
+    border-radius: 10px;
+  }
+
+  .App p{
+    align-items: flex-start;
+    align-self: flex-start;
+  }
